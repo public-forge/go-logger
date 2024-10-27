@@ -1,3 +1,6 @@
+[![Lint and Format](https://github.com/public-forge/go-logger/actions/workflows/lint.yml/badge.svg)](https://github.com/public-forge/go-logger/actions/workflows/lint.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/public-forge/go-logger)](https://goreportcard.com/report/github.com/public-forge/go-logger)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # go-logger
 
 A flexible logging library built on top of `zap` with customizable log levels, structured logging, and context
@@ -165,7 +168,3 @@ Feel free to open issues or submit pull requests to improve this library!
 ## License
 
 This library is open-source and available under the MIT License.
-
-[![Lint and Format](https://github.com/public-forge/go-logger/actions/workflows/lint.yml/badge.svg)](https://github.com/public-forge/go-logger/actions/workflows/lint.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/public-forge/go-logger)](https://goreportcard.com/report/github.com/public-forge/go-logger)
-
